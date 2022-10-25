@@ -18,4 +18,5 @@ Solutions to the LeetCode problems I've bothered attempting.
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | Medium     |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | Medium     |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)           | Easy       |
