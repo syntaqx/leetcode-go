@@ -1,6 +1,6 @@
-# LeetCode - Answers
+# LeetCode Solutions
 
-Answers to LeetCode problems I've solved.
+Solutions to the LeetCode problems I've bothered attempting.
 
 | ID   | Title                                                                                                                           | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
